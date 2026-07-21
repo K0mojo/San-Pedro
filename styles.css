@@ -4,7 +4,7 @@
 .body1{
     margin: 0;
     min-height: 100vh;
-    background-image: url(../img/Bg1.png);
+    background-image: url(Bg1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -12,7 +12,7 @@
 .body2{
     margin: 0;
     min-height: 140vh;
-    background-image: url(../img/Bg2.png);
+    background-image: url(Bg2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -20,7 +20,7 @@
 .body3{
     margin: 0;
     min-height: 140vh;
-    background-image: url(../img/Bg3.png);
+    background-image: url(Bg3.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
